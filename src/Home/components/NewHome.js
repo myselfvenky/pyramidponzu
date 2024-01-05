@@ -67,7 +67,7 @@ export default function NewHome() {
                         <h1>Pharaoh's Treasure</h1>
                     </div>
                     <div className={styles.referal}>
-                        <h1>Refrence</h1>
+                        <h1>Reference</h1>
                         <input className={styles.referalin} />
                         <button className={styles.buy_btn}
                             style={{
